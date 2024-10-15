@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(194, 207, 174);
+}
+.button1{
+	position: fixed;
+}
+.button2{
+	position: fixed;
+	left: 250px;
+}
+.button3{
+	position: fixed;
+	left: 550px;
+	
+}
+#container {
+	width: 1024px;
+	border: 1px solid black;
+	margin: 0 auto; /* заменяет тег center */
+}
